@@ -10,11 +10,11 @@ The "Pose Perfect" project is an innovative application that leverages Convoluti
 - **Real-Time Feedback**: Provides instant feedback to help users improve their yoga practice.
 
 ## Usage
-Clone Repository: Clone the repository to your local machine.
-Install Dependencies: Ensure you have the required libraries installed (OpenCV, Keras, TensorFlow, Tkinter, etc.).
-Run Application: Execute the main script to launch the application.
-Yoga Pose Classification: Observe the classification of yoga poses through the webcam or uploaded videos.
-Pose Correction: View the correct way to perform the asana, with real-time feedback displayed on the interface.
+- Clone Repository: Clone the repository to your local machine.
+- Install Dependencies: Ensure you have the required libraries installed (OpenCV, Keras, TensorFlow, Tkinter, etc.).
+- Run Application: Execute the main script to launch the application.
+- Yoga Pose Classification: Observe the classification of yoga poses through the webcam or uploaded videos.
+- Pose Correction: View the correct way to perform the asana, with real-time feedback displayed on the interface.
 
 ## Dependencies
 - **OpenCV**: Used for image capture and processing.
